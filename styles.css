@@ -127,3 +127,50 @@ h3{
     justify-content: flex-end;
     margin-right: 300px;
 }
+.last-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blue-container{
+    background-color: #3882F6;
+    width: 75%;
+    height: 40%;
+    display: flex;
+}
+.left{
+    width:80%;
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h4{
+    font-size: 24px;
+    color: white;
+}
+.p-last{
+    color: white;
+    font-size: 18px;
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.btn-last-div{
+    background-color: #3882F6;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    height:50px;
+}
